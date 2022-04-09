@@ -28,4 +28,5 @@
 
 6. Créer la classe patientRestController dans le package
      web et afficher les données des patients sur : 
-     http​&#65279;://localhost:8086/patients
+       
+    http​&#65279;://localhost:8086/patients
